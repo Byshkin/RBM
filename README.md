@@ -7,4 +7,4 @@ A very simple code to train RBM with
 
 Alexander Borisenko, Maksym Byshkin, Alessandro Lomi, [A Simple Algorithm for Scalable Monte Carlo Inference](https://arxiv.org/abs/1901.00533) arXiv preprint arXiv:1901.00533 (2019)
 
-The training results are present [here](http://estimnet.org/EE2019poster.pdf)
+The training results are compared [here](http://estimnet.org/EE2019poster.pdf)
