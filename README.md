@@ -1,4 +1,5 @@
 # Training Restricted Boltzmann Machine with EE algorithm
+Handwritten digit classification using [MNIST data](http://yann.lecun.com/exdb/mnist/)
 
 A very simple code to train RBM with
 1) Contrastive Divergence
